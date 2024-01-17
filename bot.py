@@ -38,4 +38,4 @@ async def check(ctx):
     else:
         await ctx.send("Olvidaste adjuntar la imagen :(")
 
-bot.run("MTEzODg2NzUwMzcwODI0MTkzMA.GguxCX.UW5m9B_Vcu_HQWtA1k0U6crOoBYQC61aQfUTZU")
+bot.run("Acá va tu token")
