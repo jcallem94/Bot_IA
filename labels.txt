@@ -1,0 +1,5 @@
+0 Nublado
+1 Neblinoso
+2 Lluvioso
+3 Soleado
+4 Amanecer Atardecer
